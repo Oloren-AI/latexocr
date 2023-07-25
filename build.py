@@ -1,0 +1,3 @@
+from pix2tex.model.checkpoints.get_latest_checkpoint import download_checkpoints
+
+download_checkpoints()
